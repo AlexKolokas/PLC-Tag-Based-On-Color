@@ -28,7 +28,7 @@ board;3 high-speed counters (expandable with digital signal board) and 4 pulse o
 
 - **HMI**: `TP700 Comfort`
 
-##IMAGES
+## IMAGES
 
 **FACTORY IO IMAGE**
 ![tagsfactoryio.jpg](/img/tagsfactoryio.jpg)
