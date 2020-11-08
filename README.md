@@ -3,7 +3,7 @@
 
 **Tagging Based On Color** is a PLC based industrial application for tagging products based on their color (blue or green).
 Factory i/o has been used for the 3D simulation. S7-PLCSIM has been used instead of a real PLC.
-<img src="./img/TagsHmi.jpg" style="display: block; margin-left:auto; margin-right:auto; margin-top:30px; margin-bottom:30px; width:99%; border-radius:10px;">
+
 
 ## Main Idea
 
@@ -28,4 +28,11 @@ board;3 high-speed counters (expandable with digital signal board) and 4 pulse o
 
 - **HMI**: `TP700 Comfort`
 
+##IMAGES
+
+**FACTORY IO IMAGE**
+![tagsfactoryio.jpg](/img/tagsfactoryio.jpg)
+
+**HMI IMAGE**
+![TagsHMI.jpg](img/TagsHMI.jpg)
 
