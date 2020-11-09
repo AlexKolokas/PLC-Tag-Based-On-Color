@@ -36,3 +36,8 @@ board;3 high-speed counters (expandable with digital signal board) and 4 pulse o
 **HMI IMAGE**
 ![TagsHMI.jpg](img/TagsHMI.jpg)
 
+## Files
+
+- **Ετικετες/Tags PLC code.pdf** : it's the plc code
+- **Ετικετες/Tags ΗΜΙ screen.pdf** : it's the HMI settings
+- **Ετικετες/Tags video.mkv** : it's a demonstration of how it works
