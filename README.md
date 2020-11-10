@@ -41,3 +41,5 @@ board;3 high-speed counters (expandable with digital signal board) and 4 pulse o
 - **Ετικετες/Tags PLC code.pdf** : it's the plc code
 - **Ετικετες/Tags ΗΜΙ screen.pdf** : it's the HMI settings
 - **Ετικετες/Tags video.mkv** : it's a demonstration of how it works
+- **Ετικετες/Factory io tags.factoryio**: it's the factory io file 
+- **Ετικετες/Tia Portal Ετικετες**: it's the folder for the tia portal
